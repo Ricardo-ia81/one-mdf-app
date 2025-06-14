@@ -3,5 +3,5 @@ git add .
 git commit -m "Primeiro commit - App funcional ONE"
 
 git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/one-mdf-app.git 
+git remote add origin https://github.com/ricardo-ia81/one-mdf-app.git 
 git push -u origin main
